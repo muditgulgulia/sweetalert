@@ -83,3 +83,8 @@ Feel free to customize the alert service and dialog options to suit your project
 ## Examples
 
 You can find additional usage examples and customization options in the provided [example component](/src/app/app.component.ts).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
